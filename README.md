@@ -1,6 +1,9 @@
 # File_Threshold_Alerting
 Generic script that sends an email alert via SMTP if file within specified folders exceed defined time thresholds. If using this PowerShell, please also download and modify folder_monitors.csv file as well. 
 
+## Video Demonstration  
+[![Watch the video](https://img.youtube.com/vi/1FUjzVgjYqM/0.jpg)](https://youtu.be/1FUjzVgjYqM)
+
 ## Requirements: 
 1. Require a SMTP server.
 2. You must modify the folder_monitors.csv file according to your needs. See the example folder_monitors.csv file within this repository. 
