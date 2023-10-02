@@ -1,0 +1,4 @@
+(2023-10-02 14:35:40) - [OK] - 0 files detected within the alerting threshold for job: Test1. Do nothing.
+(2023-10-02 14:35:40) - [OK] - 0 files detected within the alerting threshold for job: Test2. Do nothing.
+(2023-10-02 14:35:40) - [OK] - 0 files detected within the alerting threshold for job: Test3. Do nothing.
+(2023-10-02 15:17:58) - [ALERT!] -  3 file(s) within alerting threshold detected for job: Test1. SEND EMAIL ALERT!
