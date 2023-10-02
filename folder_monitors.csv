@@ -1,4 +1,4 @@
 friendly_name,on_bit,path,weekday_bit,weekday_minute_threshold,ah_bit,ah_threshold,weekend_bit,weekend_minute_threshold,Extension,Email_to,cc_to,Email_Subj,Email_body
 Test1,1,C:\Users\amignona\Documents\test\test1,1,1,0,0,0,0,.*,amignona@EXAMPLE.com,,Test1,Testing 3
-Test2,1,C:\Users\amignona\Documents\test\test2,0,1,0,0,0,0,.*,amignona@EXAMPLE.com,,Test2,Testing 2
+Test2,1,C:\Users\amignona\Documents\test\test2,0,1,0,0,0,0,.tif,amignona@EXAMPLE.com,,Test2,Testing 2
 Test3,1,C:\Users\amignona\Documents\test\test3,0,1,1,120,1,90,.*,amignona@EXAMPLE.com,,Test3,Testing 3
