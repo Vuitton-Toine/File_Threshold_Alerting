@@ -8,6 +8,7 @@ Generic script that sends an email alert via SMTP if file within specified folde
 <img width="568" alt="image" src="https://github.com/Vuitton-Toine/File_Threshold_Alerting/assets/81653524/c59cb2c5-0ad5-4766-bbda-a91b050fb2c1">
 
 ## Email Alert Example
+Below is an example of how the email alerts will look. 
 ![image](https://github.com/Vuitton-Toine/File_Threshold_Alerting/assets/81653524/9e4c867a-7cf4-4ff0-a707-d59bc9c43376)
 
 
