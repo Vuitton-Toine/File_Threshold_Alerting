@@ -3,11 +3,6 @@ Generic script that sends an email alert via SMTP if file within specified folde
 
 ## Video Demonstration  
 [![Watch the video](https://img.youtube.com/vi/XGCBd7Fdv28/0.jpg)](https://youtu.be/XGCBd7Fdv28)
-![Screenshot 2023-10-02 204810](https://github.com/Vuitton-Toine/File_Threshold_Alerting/assets/81653524/adeca5da-f867-4d50-8933-8161c18e7a00)
-
-
-[![Watch the video]([https://img.youtube.com/vi/XGCBd7Fdv28/0.jpg](https://github.com/Vuitton-Toine/File_Threshold_Alerting/assets/81653524/adeca5da-f867-4d50-8933-8161c18e7a00))](https://youtu.be/XGCBd7Fdv28)
-
 
 ## Requirements: 
 1. Require a SMTP server.
